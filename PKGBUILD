@@ -4,7 +4,7 @@
 pkgname=python2-yenc
 pkgver=0.4.0
 pkgrel=3
-arch=('i686' 'x86_64')
+arch=('x86_64')
 license=('GPL')
 pkgdesc='yenc decoder for python2'
 url='http://www.golug.it/yenc.html'
